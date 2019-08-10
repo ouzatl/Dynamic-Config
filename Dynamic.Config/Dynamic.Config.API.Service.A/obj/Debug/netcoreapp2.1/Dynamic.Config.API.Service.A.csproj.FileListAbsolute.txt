@@ -1,0 +1,17 @@
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\obj\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.csprojAssemblyReference.cache
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\obj\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.csproj.CoreCompileInputs.cache
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\obj\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.RazorAssemblyInfo.cache
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\obj\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.RazorAssemblyInfo.cs
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\obj\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.AssemblyInfoInputs.cache
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\obj\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.AssemblyInfo.cs
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\bin\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.deps.json
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\bin\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.runtimeconfig.json
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\bin\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.runtimeconfig.dev.json
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\bin\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.dll
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\bin\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.pdb
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\bin\Debug\netcoreapp2.1\Dynamic.Config.dll
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\bin\Debug\netcoreapp2.1\Dynamic.Config.pdb
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\obj\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.RazorTargetAssemblyInfo.cache
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\obj\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.csproj.CopyComplete
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\obj\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.dll
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config.API.Service.A\obj\Debug\netcoreapp2.1\Dynamic.Config.API.Service.A.pdb

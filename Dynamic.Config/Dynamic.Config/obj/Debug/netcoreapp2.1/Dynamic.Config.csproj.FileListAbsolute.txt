@@ -1,0 +1,15 @@
+C:\Users\Oğuz\Source\Repos\Dynamic.Config\Dynamic.Config\bin\Debug\netcoreapp2.1\Dynamic.Config.deps.json
+C:\Users\Oğuz\Source\Repos\Dynamic.Config\Dynamic.Config\bin\Debug\netcoreapp2.1\Dynamic.Config.dll
+C:\Users\Oğuz\Source\Repos\Dynamic.Config\Dynamic.Config\obj\Debug\netcoreapp2.1\Dynamic.Config.csprojAssemblyReference.cache
+C:\Users\Oğuz\Source\Repos\Dynamic.Config\Dynamic.Config\obj\Debug\netcoreapp2.1\Dynamic.Config.csproj.CoreCompileInputs.cache
+C:\Users\Oğuz\Source\Repos\Dynamic.Config\Dynamic.Config\obj\Debug\netcoreapp2.1\Dynamic.Config.AssemblyInfoInputs.cache
+C:\Users\Oğuz\Source\Repos\Dynamic.Config\Dynamic.Config\obj\Debug\netcoreapp2.1\Dynamic.Config.AssemblyInfo.cs
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config\bin\Debug\netcoreapp2.1\Dynamic.Config.deps.json
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config\bin\Debug\netcoreapp2.1\Dynamic.Config.dll
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config\bin\Debug\netcoreapp2.1\Dynamic.Config.pdb
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config\obj\Debug\netcoreapp2.1\Dynamic.Config.csprojAssemblyReference.cache
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config\obj\Debug\netcoreapp2.1\Dynamic.Config.csproj.CoreCompileInputs.cache
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config\obj\Debug\netcoreapp2.1\Dynamic.Config.AssemblyInfoInputs.cache
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config\obj\Debug\netcoreapp2.1\Dynamic.Config.AssemblyInfo.cs
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config\obj\Debug\netcoreapp2.1\Dynamic.Config.dll
+C:\Users\Oğuz\Desktop\Dynamic-Config\Dynamic.Config\Dynamic.Config\obj\Debug\netcoreapp2.1\Dynamic.Config.pdb
